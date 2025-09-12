@@ -11,7 +11,7 @@
 <h2 align = "center">
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!
-
+Contact me    Discord: Yury0805
 Welcome!<br />
 "You think IT. I build IT !"<br />
 My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business.<br />
