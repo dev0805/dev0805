@@ -2,6 +2,7 @@
 
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 Discord: 
+Telegram: @eternity_authority
 <!-- <a href="https://join.skype.com/invite/OyBkobIsnA8l">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
