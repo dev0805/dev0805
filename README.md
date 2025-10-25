@@ -1,5 +1,5 @@
 
-
+EdTech and paln
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 👋 <b text-color="red">Telegram:👋</b> 👋    @eternity_authority    👋
 
