@@ -1,7 +1,7 @@
 
 EdTech and paln
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-👋 <b style="color: red;">My Telegram   Name Name Name Name Name:👋</b> 👋    @eternity_authority    👋 <br />
+👋 <b style="color: red">My Telegram   Name Name Name Name Name:👋</b> 👋    @eternity_authority    👋 <br />
 I am waiting on Telegram now. pls add my name   "@eternity_authority"
 
 FULL STACK DEVELOPER
