@@ -1,7 +1,7 @@
 
 
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-👋 <b text-color="red">Telegram:</b> @eternity_authority 👋
+👋 <b text-color="red">Telegram:👋</b> 👋    @eternity_authority    👋
 
 FULL STACK DEVELOPER
 <!-- <a href="https://join.skype.com/invite/OyBkobIsnA8l">
