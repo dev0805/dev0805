@@ -7,8 +7,6 @@
 </a><br /> -->
 <h2 align = "center">
 
-
-
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕
 
 <div align="center">  
