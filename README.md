@@ -61,7 +61,7 @@
 ✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   <br />
 ✔ React Animation, React Native, React Bootstrap.
 <br />
-✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
+✔ Vue JS, Angular, React JS, Next Js, TypeScipt, RxJs
 <br />
 ✔ Template, Theme and Script customization
 <br />
@@ -79,18 +79,7 @@
 <br />
 ✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
 <br />
- <div>
- # Ethereum / Solana / BSC / Polygon / Cardano / Moonbeam / Bitcoin<br />
- # Smart Contract Development / Testing / Auditing<br />
- # ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612<br />
- # Solidity & Rust<br />
- # Metaplex (NFT marketplace)<br />
- # Hardhat / Truffle / Openzeppelin<br />
- # Anchor / Cargo<br />
- # Web3.js / Ether.js / Solana-web3<br />
- # Next.js / React.js / Vue.js<br />
- # Source Control<br />
-  </div>
+
 </div>
 
 <br/>
